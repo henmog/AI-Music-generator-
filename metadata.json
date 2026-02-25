@@ -1,0 +1,5 @@
+{
+  "name": "AI Instrumentalist",
+  "description": "An AI-powered application that generates unique instrumental music from a text prompt. Leverages Gemini to create melodies in ABC notation.",
+  "requestFramePermissions": []
+}
